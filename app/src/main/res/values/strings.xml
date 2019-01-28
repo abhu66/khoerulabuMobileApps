@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pulsa App</string>
+    <string name="lbl_login_user">Login User</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="lbl_button_login">Login</string>
+    <string name="lbl_phone_number">Phone Number</string>
+    <string name="lbl_operator">Operator</string>
+    <string name="lbl_pulsa">Pulsa</string>
+    <string name="lbl_harga">Price</string>
+    <string name="lbl_rupiah">Rp.</string>
+    <string name="lbl_btn_save">SAVE TRANSACTION</string>
+    <string name="lbl_btn_transaction">TRANSACTION</string>
+    <string name="lbl_list_transaction">List Transaction</string>
+    <string name="lbl_transaction_date">Transaction Date</string>
+    <string name="lbl_separator">:</string>
+    <string name="lbl_user_id">Users Id</string>
+    <string name="default_font" translatable="false">sans-serif-</string>
+</resources>
